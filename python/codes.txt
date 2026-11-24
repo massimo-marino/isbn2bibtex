@@ -1,0 +1,9 @@
+# Example file
+# books
+978-0-13-110362-7
+0-262-03384-4        # CLRS, ISBN-10
+978-1-57-955008-0    # Stephen Wolfram, A New Kind of Science
+
+# papers
+10.1038/nature14539
+doi:10.1145/3065386
